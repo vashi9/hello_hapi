@@ -28,10 +28,10 @@
 </Placemark>
     
 <Placemark>
-    <name>Trader Joe's</name>
+    <name>Engemann </name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	 -118.28468101586195, 34.02614679285783
+        <coordinates>	 -118.28861854401188,34.024793490411696
         </coordinates>
     </Point>
 </Placemark>
@@ -57,7 +57,7 @@
 </Placemark>
 
 <Placemark>
-    <name>USC Cinema. Arts</name>
+    <name>USC Cinematic Arts</name>
     <styleUrl>#z1</styleUrl>
     <Point>
         <coordinates>	-118.28651195557973, 34.023636647683084			
@@ -67,16 +67,16 @@
 </Placemark>
 
 <Placemark>
-    <name>USC Annenberg</name>
+    <name>Patsy Fountain</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	 -118.28613059452506, 34.02217091637391			
+        <coordinates>	 -118.2851958, 34.0201942		
         </coordinates>
     </Point>
 </Placemark>
 
 <Placemark>
-    <name>Cromwell Field</name>
+    <name>Britingham Field</name>
     <styleUrl>#z1</styleUrl>
     <Point>
         <coordinates>	 -118.28789253111098,  34.02215811478172		
@@ -87,10 +87,10 @@
 
 
 <Placemark>
-    <name>Thorton School</name>
+    <name>USC office of Religios Studies</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	-118.28549331734864,  34.02329551559096		
+        <coordinates>	-118.2849141,  34.0232509	
 		
         </coordinates>
     </Point>
