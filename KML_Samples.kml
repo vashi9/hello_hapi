@@ -1,0 +1,142 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle>
+<Icon>
+<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Tommy Trojan</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2854, 34.0206</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Doheny Memorial Library</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2837,34.0202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Von KleinSmid Center</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2840,34.0213</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>USC School of Cinematic Arts</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2865,34.0236</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bovard Auditorium</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2856,34.0208</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ronald Tutor Campus Center</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2864,34.0203</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taper Hall</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2846,34.0223</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marshall Business School</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2855,34.0187</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Leavey Library</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2828,34.0217</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>McCarthy Quad</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2832,34.0209</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>USC Annenberg School for Communication and Journalism</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2861,34.0221</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>USC Special Collections</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2836,34.0199</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CENTROID</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28496,34.0208</coordinates>
+</Point>
+</Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-118.28496,34.02084,0  -118.2854,34.0206,0</coordinates>  
+      </LineString>
+    </Placemark>
+  <Placemark>
+    <name>The Pentagon</name>
+    <Polygon>
+      <extrude>1</extrude>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -118.2855,34.0187,100
+            -118.2864,34.0203,100
+            -118.2865,34.0236,100
+            -118.2828,34.0217,100
+            -118.2836,34.0199,100
+            -118.2855,34.0187,100
+            
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+      <innerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -118.2855,34.0187,100
+            -118.2864,34.0203,100
+            -118.2865,34.0236,100
+            -118.2828,34.0217,100
+            -118.2836,34.0199,100
+            -118.2855,34.0187,100
+          </coordinates>
+        </LinearRing>
+      </innerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+</Document>
+</kml>
