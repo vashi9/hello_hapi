@@ -7,12 +7,33 @@
         </Icon>
         </IconStyle>
     </Style>
-    
+
+	
+<Placemark>
+    <name>Engemann </name>
+    <styleUrl>#z1</styleUrl>
+    <Point>
+        <coordinates>	 -118.28861854401188,34.024793490411696
+        </coordinates>
+    </Point>
+</Placemark>
+	
+	
 <Placemark>
     <name>Home</name>
     <styleUrl>#z1</styleUrl>
     <Point>
         <coordinates>	-118.28517323153733,34.030708842995864		
+        </coordinates>
+    </Point>
+</Placemark>
+	
+<Placemark>
+    <name>Lovine-Young Academy</name>
+    <styleUrl>#z1</styleUrl>
+    <Point>
+        <coordinates>  -118.28866236866935, 34.01903767982044			
+	
         </coordinates>
     </Point>
 </Placemark>
@@ -26,15 +47,18 @@
         </coordinates>
     </Point>
 </Placemark>
-    
+	
+	
 <Placemark>
-    <name>Engemann </name>
+    <name>USC Cinematic Arts</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	 -118.28861854401188,34.024793490411696
+        <coordinates>	-118.28651195557973, 34.023636647683084			
+		
         </coordinates>
     </Point>
-</Placemark>
+</Placemark>	
+    
 
 <Placemark>
     <name>BoFA USC</name>
@@ -45,6 +69,16 @@
         </coordinates>
     </Point>
 </Placemark>
+	
+	
+<Placemark>
+    <name>USC Viterbi</name>
+    <styleUrl>#z1</styleUrl>
+    <Point>
+        <coordinates> -118.28931278303689,	34.02073453255963	
+        </coordinates>
+    </Point>
+</Placemark>	
 
 <Placemark>
     <name>USC Marshall</name>
@@ -56,15 +90,7 @@
     </Point>
 </Placemark>
 
-<Placemark>
-    <name>USC Cinematic Arts</name>
-    <styleUrl>#z1</styleUrl>
-    <Point>
-        <coordinates>	-118.28651195557973, 34.023636647683084			
-		
-        </coordinates>
-    </Point>
-</Placemark>
+
 
 <Placemark>
     <name>Patsy Fountain</name>
@@ -108,14 +134,7 @@
 </Placemark>
 
 
-<Placemark>
-    <name>USC Viterbi</name>
-    <styleUrl>#z1</styleUrl>
-    <Point>
-        <coordinates> -118.28931278303689,	34.02073453255963	
-        </coordinates>
-    </Point>
-</Placemark>
+
 
 
 <Placemark>
@@ -129,15 +148,7 @@
 </Placemark>
 
 
-<Placemark>
-    <name>Lovine-Young Academy</name>
-    <styleUrl>#z1</styleUrl>
-    <Point>
-        <coordinates>  -118.28866236866935, 34.01903767982044			
-	
-        </coordinates>
-    </Point>
-</Placemark>
+
 
 <!-- POLYGONNNNNNN -->
 
@@ -207,7 +218,7 @@
       <LineString>
         <extrude>1</extrude>
         <tessellate>1</tessellate>
-        <coordinates>-118.28517323153733,34.030708842995864,0  -118.28468101586195,34.02614679285783,0</coordinates>
+        <coordinates>-118.28517323153733,34.030708842995864,0   -118.28861854401188,34.024793490411696,0</coordinates>
       </LineString>
       
 <Style> 
