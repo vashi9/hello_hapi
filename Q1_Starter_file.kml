@@ -29,7 +29,7 @@
 </Placemark>
 	
 <Placemark>
-    <name>Lovine-Young Academy</name>
+    <name>LY Academy</name>
     <styleUrl>#z1</styleUrl>
     <Point>
         <coordinates>  -118.28866236866935, 34.01903767982044			
@@ -50,7 +50,7 @@
 	
 	
 <Placemark>
-    <name>USC Cinematic Arts</name>
+    <name>Cinematic Arts</name>
     <styleUrl>#z1</styleUrl>
     <Point>
         <coordinates>	-118.28651195557973, 34.023636647683084			
@@ -113,7 +113,7 @@
 
 
 <Placemark>
-    <name>USC office of Religios Studies</name>
+    <name>Religious Centre</name>
     <styleUrl>#z1</styleUrl>
     <Point>
         <coordinates>	-118.2849141,  34.0232509	
