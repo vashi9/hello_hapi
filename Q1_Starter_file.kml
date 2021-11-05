@@ -187,7 +187,7 @@
       <LineString>
         <extrude>1</extrude>
         <tessellate>1</tessellate>
-        <coordinates>-118.28517323153733,34.030708842995864,0  -118.28527792518429,34.02695268409571,0</coordinates>
+        <coordinates> -118.29046797366497,34.02775613083782,0  -118.28527792518429,34.02695268409571,0</coordinates>
       </LineString>
       
 <Style> 
@@ -208,7 +208,7 @@
       <LineString>
         <extrude>1</extrude>
         <tessellate>1</tessellate>
-        <coordinates>-118.28517323153733,34.030708842995864,0  -118.28468101586195,34.02614679285783,0</coordinates>
+        <coordinates> -118.29046797366497,34.02775613083782,0  -118.28468101586195,34.02614679285783,0</coordinates>
       </LineString>
       
 <Style> 
@@ -229,7 +229,7 @@
       <LineString>
         <extrude>1</extrude>
         <tessellate>1</tessellate>
-        <coordinates>-118.28517323153733,34.030708842995864,0  -118.28412806527946,34.024980456260565,0</coordinates>
+        <coordinates> -118.29046797366497,34.02775613083782,0  -118.28412806527946,34.024980456260565,0</coordinates>
       </LineString>
       
 <Style> 
@@ -249,7 +249,7 @@
       <LineString>
         <extrude>1</extrude>
         <tessellate>1</tessellate>
-        <coordinates>-118.28517323153733,34.030708842995864,0  -118.28651195557973,34.023636647683084,0</coordinates>
+        <coordinates> -118.29046797366497,34.02775613083782,0  -118.28651195557973,34.023636647683084,0</coordinates>
       </LineString>
       
 <Style> 
