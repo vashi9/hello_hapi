@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<gx:CascadingStyle kml:id="__managed_style_29CEA085D31E278B39AE">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>c00000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_185909D30A1E278B39AE">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+				<color>c00000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_135A8811251E27923C1C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2DE820110B1E278BC441">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E166CE1061E278BC441">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C18A348EF1E278BC441</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2DE820110B1E278BC441</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1C18A348EF1E278BC441">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2D8D32E6A01E27923C1C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C6C8393D91E278B39AE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_185909D30A1E278B39AE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29CEA085D31E278B39AE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2D95EB09981E2788541F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>c0ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="z1">
+		<IconStyle>
+			<Icon>
+				<href>https://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="__managed_style_08EFC4EE5F1E27923C1C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_135A8811251E27923C1C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D8D32E6A01E27923C1C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1327085EAD1E2788541F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>c0ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B142EC32C1E2788541F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1327085EAD1E2788541F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D95EB09981E2788541F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="1155D099441E278100DE">
+		<name>Engemann</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>-118.2886185440119,34.0247934904117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="20156690EC1E278100DE">
+		<name>Brittingham Field</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>-118.28834158257,34.0227292127235,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="33DB748AC61E278100DE">
+		<name>BoFA USC</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>-118.2841280652795,34.02498045626056,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4F35D41D381E278100DE">
+		<name>USC Marshall</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>-118.2854237566531,34.0188810038387,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4159AEA0151E278100DF">
+		<name>Dedeaux Stadium</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>-118.2895380885991,34.0233844372443,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="56D2256A9F1E278100DF">
+		<name>USC Viterbi</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>-118.2893127830369,34.02073453255963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0946D7E1A91E2786DD18">
+		<name>Patsy and Forrest Shumway Fountain</name>
+		<gx:mid>/g/11bvtd4h4z</gx:mid>
+		<gx:fid>0x80c2c7e30c63cc43:0xdb5e9862a3e8473a</gx:fid>
+		<LookAt>
+			<longitude>-118.2851958</longitude>
+			<latitude>34.02019419999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.7362554615723</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B142EC32C1E2788541F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2852081,34.020188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A8E6D338C1E278BC440">
+		<name>Booth Hall</name>
+		<styleUrl>#__managed_style_0E166CE1061E278BC441</styleUrl>
+		<Point>
+			<coordinates>0,0,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="060E3A167C1E2791BA99">
+		<name>USC Dornsife College of Letters, Arts and Sciences</name>
+		<gx:mid>/g/12jsl5zk7</gx:mid>
+		<gx:fid>0x80c2c7e19c55535f:0x910aeed44d08e3b5</gx:fid>
+		<LookAt>
+			<longitude>-118.2855371</longitude>
+			<latitude>34.0209141</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.7282425992402</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08EFC4EE5F1E27923C1C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2855149,34.0209042,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0654A68A0F1E2794FE54">
+		<name>USC School of Cinematic Arts</name>
+		<gx:mid>/m/02ljdw</gx:mid>
+		<gx:fid>0x80c2c7e4ed26c20d:0xb92a306971acb701</gx:fid>
+		<LookAt>
+			<longitude>-118.2865012</longitude>
+			<latitude>34.02357819999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.6985885889347</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08EFC4EE5F1E27923C1C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2865012,34.0235782,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C64F51FF61E2793DD96">
+		<name>USC Office of Religious Life (ORL)</name>
+		<gx:mid>/g/11bwqblljt</gx:mid>
+		<gx:fid>0x80c2c7e4f1857323:0xebb2f26624470f97</gx:fid>
+		<LookAt>
+			<longitude>-118.2849141</longitude>
+			<latitude>34.0232509</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.7022318553841</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08EFC4EE5F1E27923C1C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2849073,34.0232614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF01B6C341E27969CB1">
+		<name>USC Village Great Lawn</name>
+		<gx:mid>/g/11ghfr88zv</gx:mid>
+		<gx:fid>0x80c2c7c7b3c44e99:0xa664d50d28c3665b</gx:fid>
+		<LookAt>
+			<longitude>-118.2852737</longitude>
+			<latitude>34.0268471</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.662200013223</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08EFC4EE5F1E27923C1C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2852737,34.0268471,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="7824AF15F21E278100DF">
+		<name>Lovine-Young Academy</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>-118.2886623686693,34.01903767982044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Folder id="8C64567F131E278100DF">
+		<name>Polygon</name>
+		<Placemark id="021E7366031E2783A87B">
+			<LookAt>
+				<longitude>-118.2861680786601</longitude>
+				<latitude>34.02174323821104</latitude>
+				<altitude>54.19451843898371</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1282.095887311298</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0C6C8393D91E278B39AE</styleUrl>
+			<Polygon>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.2841280652795,34.02498045626056,50 -118.2851732315373,34.03070884299586,50 -118.2895380885991,34.0233844372443,50 -118.2893127830369,34.02073453255963,50 -118.2886623686693,34.01903767982044,50 -118.2854237566531,34.0188810038387,50 -118.2841280652795,34.02498045626056,50 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder id="01036FA45A1E278100E0">
+		<name>4 Nearest Neighbours</name>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>fff8ff2e</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.290467973665,34.02775613083782,0 -118.2852779251843,34.02695268409571,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>fff8ff2e</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.290467973665,34.02775613083782,0 -118.2846810158619,34.02614679285783,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>fff8ff2e</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.290467973665,34.02775613083782,0 -118.2841280652795,34.02498045626056,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>fff8ff2e</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.290467973665,34.02775613083782,0 -118.2865119555797,34.02363664768308,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
