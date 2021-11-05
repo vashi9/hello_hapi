@@ -18,20 +18,21 @@
 </Placemark>
 
 <Placemark>
-    <name>USC Lawn</name>
+    <name>Engemann</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	-118.28527792518429,34.02695268409571 		
+        <coordinates>	-118.28861854401188,34.024793490411696
+ 		
 		
         </coordinates>
     </Point>
 </Placemark>
     
 <Placemark>
-    <name>Trader Joe's</name>
+    <name>Brittingham Field</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	 -118.28468101586195, 34.02614679285783
+        <coordinates>	 -118.28834158257, 34.0227292127235
         </coordinates>
     </Point>
 </Placemark>
@@ -57,29 +58,29 @@
 </Placemark>
 
 <Placemark>
-    <name>USC Cinema. Arts</name>
+    <name>Geronotology Building</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	-118.28651195557973, 34.023636647683084			
+        <coordinates>	-118.290275841985, 34.02013769051702		
 		
         </coordinates>
     </Point>
 </Placemark>
 
 <Placemark>
-    <name>USC Annenberg</name>
+    <name>USC Architecture Building</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	 -118.28613059452506, 34.02217091637391			
+        <coordinates>	 -118.28774602621, 34.0186076803016			
         </coordinates>
     </Point>
 </Placemark>
 
 <Placemark>
-    <name>Cromwell Field</name>
+    <name>THH</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	 -118.28789253111098,  34.02215811478172		
+        <coordinates>	 -118.28407451352103,  34.02237788752198		
 		
         </coordinates>
     </Point>
@@ -87,10 +88,10 @@
 
 
 <Placemark>
-    <name>Thorton School</name>
+    <name>Dohini Library</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>	-118.28549331734864,  34.02329551559096		
+        <coordinates>	-118.28351855995946,  34.02009799365696	
 		
         </coordinates>
     </Point>
@@ -119,10 +120,10 @@
 
 
 <Placemark>
-    <name>USC Dornsife</name>
+    <name>Leavy Library</name>
     <styleUrl>#z1</styleUrl>
     <Point>
-        <coordinates>  -118.28555769036691, 34.02108133686649		
+        <coordinates>  -118.28307909035476, 34.0215100982732		
 	
         </coordinates>
     </Point>
